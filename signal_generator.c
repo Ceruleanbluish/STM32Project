@@ -4,7 +4,8 @@
   * @author  Ceruleanbluish
   * @version V1.0
   * @date    05 06 2018
-  * @brief   Default main function.
+  * @brief   This main file is used to create a signal generator by MCU when we have no a signal generator 
+  	     and only we need to transmit the signal to the computer.
   ******************************************************************************
 */
 
